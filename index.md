@@ -319,7 +319,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
-{% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "incubator" %}
@@ -340,6 +339,7 @@ change the value of `carpentry` to `incubator`.
 {% endif %}
 
 <hr/>
+{% endcomment %}
 
 
 {% comment %}
@@ -384,7 +384,7 @@ how one of these schedule tables is constructed.
 {% endcomment %}
 
 {% if site.pilot %}
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please [contact the workshop organisers](#contact) if you would like more information about the planned schedule.
+Please visit the [lesson website]("https://carpentries-incubator.github.io/python-text-analysis/") for a detailed schedule. 
 {% endif %}
 
 <hr/>
