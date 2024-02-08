@@ -103,7 +103,7 @@ the pitch.
 {% endif %}
 
 {% if site.pilot %}
-Join this recently developed Carpentries workshop for a practical Introduction to Text Analysis, designed for those with Python experience. The workshop covers Natural Language Processing (NLP) basics, API usage, data preparation, document/word embeddings, topic modeling, Word2Vec, Transformer models using Hugging Face, and ethical considerations. Students and researchers working in the digital humanities are especially encouraged to attend! View the [workshop schedule]("https://carpentries-incubator.github.io/python-text-analysis/") for an overview of the topics we will cover.
+Join this recently developed Carpentries workshop for a practical Introduction to Text Analysis, designed for those with Python experience. The workshop covers Natural Language Processing (NLP) basics, API usage, data preparation, document/word embeddings, topic modeling, Word2Vec, Transformer models using Hugging Face, and ethical considerations. Students and researchers working in the digital humanities are especially encouraged to attend! View the [the lesson homepage]({{ site.incubator_lesson_site }}) for an overview of the topics we will cover.
 
 This is a **pilot workshop**, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
@@ -386,7 +386,6 @@ how one of these schedule tables is constructed.
 {% endcomment %}
 
 {% if site.pilot %}
-Please visit the [lesson website]("https://carpentries-incubator.github.io/python-text-analysis/") for a detailed schedule. 
 {% endif %}
 
 <hr/>
