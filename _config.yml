@@ -64,10 +64,10 @@ incubator_lesson_site: "https://carpentries-incubator.github.io/python-text-anal
 incubator_lesson_site_setup: "https://carpentries-incubator.github.io/python-text-analysis/setup.html"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
-# incubator_pre_survey: "put the URL of your pre-workshop survey here"
+incubator_pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSe8du6kUodOBH8VSiAeJN3a1DNTSYqkRznq_2-sRmTGp_n1zQ/viewform?usp=sf_link"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-# incubator_post_survey: "put the URL of your post-workshop survey here"
+incubator_post_survey: "https://docs.google.com/forms/d/e/1FAIpQLSeynX2NvHXIuKMSWa4IAey9cbfdM3tNi3arR_m7QuQeeSgheg/viewform?usp=sf_link"
 #
 #------------------------------------------------------------
 
